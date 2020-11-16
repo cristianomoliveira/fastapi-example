@@ -1,0 +1,17 @@
+.idea
+*.sqlite3
+*.bak
+*pyc
+__pycache__
+*.py[cod]
+*~
+*$py.class
+*venv
+/core/migrations/*
+/.history/*
+/.vscode/*
+.vscode
+.vscode/settings.json
+staticfiles
+static
+tasks.md
